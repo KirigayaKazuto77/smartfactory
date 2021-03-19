@@ -1,6 +1,6 @@
 <template>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <div class="container">
+  <div class="container">   
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <img alt="Vue logo" src="../assets/SmartFactoryLogo.png">
 
       <div>
